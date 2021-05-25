@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bộ chuyển đổi nhiệt độ</string>
+
+    <string name="conversion">Bộ chuyển đổi</string>
+    <string name="ctof">Celcius sang Fahrenheit</string>
+    <string name="ftoc">Fahrenheit sang Celcius</string>
+    <string name="convert">Chuyển đổi</string>
+    <string name="ctofHistory">C sang F</string>
+    <string name="ftocHistory">F sang C</string>
+    <string name="blankWarning">Vui lòng nhập vào giá trị cần chuyển đổi</string>
+
+
+
+
+
+</resources>

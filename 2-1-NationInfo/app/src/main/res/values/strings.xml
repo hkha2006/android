@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NationInfo</string>
+    <string name="banner">Choose a nation to see detail.</string>
+    <string name="nation">Nation</string>
+    <string name="population">Population (people )</string>
+    <string name="currency">Currency</string>
+    <string name="continent">Continent</string>
+    <string name="capital">Capital</string>
+    <string name="area">Area (km2 )</string>
+    <string name="overview">Overview</string>
+</resources>

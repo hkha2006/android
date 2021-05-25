@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/img_music"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            app:srcCompat="@drawable/ic_music" />
+
+        <TextView
+            android:id="@+id/txtName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Song name"
+            android:textColor="#009688"
+            android:textSize="20sp"
+            android:layout_toRightOf="@id/img_music"
+            android:layout_toEndOf="@id/img_music"/>
+
+        <TextView
+            android:id="@+id/txtSinger"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/txtName"
+            android:layout_marginTop="1dp"
+            android:text="Singer"
+            android:textColor="#2196F3"
+            android:textSize="18sp"
+            android:layout_toRightOf="@id/img_music"
+            android:layout_toEndOf="@id/img_music"/>
+
+        <ImageView
+            android:id="@+id/ic_play"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_below="@id/txtName"
+            android:layout_marginTop="-14dp"
+            android:layout_marginRight="1dp"
+            android:layout_toLeftOf="@id/ic_stop"
+            android:src="@drawable/play" />
+
+        <ImageView
+            android:id="@+id/ic_stop"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_below="@id/txtName"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="-15dp"
+            android:layout_marginRight="1dp"
+            android:src="@drawable/stop" />
+
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

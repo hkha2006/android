@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Thông tin quốc gia</string>
+    <string name="banner">Chọn một quốc gia để xem thông tin chi tiết</string>
+    <string name="nation">Quốc gia</string>
+    <string name="population">Dân số (người )</string>
+    <string name="currency">Đơn vị tiền tệ</string>
+    <string name="continent">Châu lục</string>
+    <string name="capital">Thủ đô</string>
+    <string name="area">Diện tích (km2 )</string>
+    <string name="overview">Tổng quan</string>
+</resources>

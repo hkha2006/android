@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+
+    <string name="conversion">Conversion</string>
+    <string name="ctof">Celcius to Fahrenheit</string>
+    <string name="ftoc">Fahrenheit to Celcius</string>
+    <string name="convert">Convert</string>
+    <string name="ctofHistory">C to F</string>
+    <string name="ftocHistory">F to C</string>
+    <string name="blankWarning">Please enter the value to convert</string>
+
+
+
+
+</resources>
