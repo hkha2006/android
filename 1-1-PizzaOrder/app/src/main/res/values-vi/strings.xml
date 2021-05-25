@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Đặt pizza</string>
+
+    <string name="topping">Topping</string>
+    <string name="tuna">Cá ngừ</string>
+    <string name="chicken">Gà</string>
+    <string name="cheese">Phô mai</string>
+    <string name="beef">Bò</string>
+    <string name="bacon">Thịt xông khói</string>
+
+    <string name="size">Kích cỡ</string>
+    <string name="large">Lớn</string>
+    <string name="medium">Vừa</string>
+    <string name="small">Nhỏ</string>
+
+    <string name="crust">Đế</string>
+    <string name="thick">Dày</string>
+    <string name="thin">Mỏng</string>
+
+    <string name="drink">Thức uống</string>
+    <string name="sevenup">7 UP</string>
+    <string name="pepsi">Pepsi</string>
+    <string name="fanta">Fanta</string>
+    <string name="coca">7Coca Cola</string>
+
+    <string name="orderDetail">Chi tiết đơn hàng</string>
+    <string name="order">Đặt hàng</string>
+    <string name="location">Địa điểm cửa hàng</string>
+    <string name="yourOrder">Đơn đặt hàng</string>
+
+    <string name="none">Không có</string>
+    <string name="toppingWarning">Bạn hãy chọn ít nhất 1 topping!</string>
+
+</resources>
